@@ -57,5 +57,5 @@ I want to continue learning how to make webpages responsive, flexbox and grid.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [Meshia13](https://github.com/Meshia13)
+- Frontend Mentor - [@Meshia13](https://www.frontendmentor.io/profile/Meshia13)
