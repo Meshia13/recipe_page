@@ -18,12 +18,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Desktop Version](/assets/images/Desktop.png)
+![Desktop Version](assets/images/Desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://meshia13.github.io/recipe_page/)
+- Solution URL: [Github Repository](https://github.com/Meshia13/recipe_page)
+- Live Site URL: [Live Site](https://meshia13.github.io/recipe_page/)
 
 ## My process
 
